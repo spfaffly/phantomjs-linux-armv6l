@@ -29,4 +29,4 @@ $ ./phantomjs-2.0.1-development-linux-armv6l/bin/phantomjs --version
 
 PhantomJS has been built using the process described in this blog post:
 
-- [Compiling PhantomJS 2.0 on Raspberry Pi](http://bitpi.co/2015/02/11/2015-02-03-compiling-phantomjs-on-raspberry-pi/)
+- [Compiling PhantomJS 2.0 on Raspberry Pi](https://www.bitpi.co/2015/02/11/compiling-phantomjs-on-raspberry-pi/)

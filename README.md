@@ -21,7 +21,7 @@ $ tar -zxvf *.tar.gz
 The binary <code>phantomjs</code> is located in the <code>bin</code> directory:
 
 <pre>
-$ ./phantomjs-2.0.1-development-linux-armv6l.tar/bin/phantomjs --version
+$ ./phantomjs-2.0.1-development-linux-armv6l/bin/phantomjs --version
 2.0.1-development
 </pre>
 
